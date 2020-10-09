@@ -194,7 +194,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  actionpack (~> 6.0.3.4)
   bcrypt (~> 3.1.7)
   bootstrap-sass (~> 3.4.1)
   bootstrap-will_paginate (= 0.0.10)
@@ -211,7 +210,6 @@ DEPENDENCIES
   puma
   rails (~> 6.0.3.4)
   rails_12factor
-  railties (~> 6.0.3.4)
   sassc-rails (>= 2.1.0)
   sdoc (~> 0.4.0)
   spring
